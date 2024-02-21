@@ -9,11 +9,13 @@ donaldangot04/donaldangot04 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # Data Analytics Portfolio
-This is the portfolio of all class assignments I have completed in Data Analytics.
+This is the portfolio of all class assignments I have completed in Data Analytics 1 and 2.
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1I0YiMILL5_TXXWv-iPWU6-tNe1T_yH0I?usp=drive_link)
-## Table of Contents
+- 
+## Data Analytics I
+
 1. **Module 1: Using Colab**
    - [A1: Markdown CV](https://colab.research.google.com/drive/1I0YiMILL5_TXXWv-iPWU6-tNe1T_yH0I?usp=drive_link)
    
@@ -34,3 +36,6 @@ This is the portfolio of all class assignments I have completed in Data Analytic
    
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
     - [A7 Github Portfolio](https://colab.research.google.com/drive/1zUhw5Vng8HXvDlD8FVSI0qD_QH4_ms5W?usp=sharing)
+      
+8. **Project
+    - - [Project]([https://colab.research.google.com/drive/1zUhw5Vng8HXvDlD8FVSI0qD_QH4_ms5W?usp=sharing](https://colab.research.google.com/drive/1QvovlMC1sOoZ_sGRXs4pReq4BUpgs565?usp=sharing)https://colab.research.google.com/drive/1QvovlMC1sOoZ_sGRXs4pReq4BUpgs565?usp=sharing)
