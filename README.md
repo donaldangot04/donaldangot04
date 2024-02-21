@@ -13,7 +13,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1I0YiMILL5_TXXWv-iPWU6-tNe1T_yH0I?usp=drive_link)
-- 
+
 ## Data Analytics I
 
 1. **Module 1: Using Colab**
@@ -37,5 +37,13 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
     - [A7 Github Portfolio](https://colab.research.google.com/drive/1zUhw5Vng8HXvDlD8FVSI0qD_QH4_ms5W?usp=sharing)
       
-8. **Project
+8. **Project**
     - [Project](https://colab.research.google.com/drive/1QvovlMC1sOoZ_sGRXs4pReq4BUpgs565?usp=sharing)
+
+## Data Analytics II
+
+1. **Week 1: Linear Regression**
+2. **Week 2: Logistic Regeression**
+3. **Week 3: Decision Tree**
+4. **Week 4: Hyperparameter Tuning, Decision Tree, Random Forest, Bagging Classifier**
+5. **Week 5:**
