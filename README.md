@@ -38,4 +38,4 @@ This is the portfolio of all class assignments I have completed in Data Analytic
     - [A7 Github Portfolio](https://colab.research.google.com/drive/1zUhw5Vng8HXvDlD8FVSI0qD_QH4_ms5W?usp=sharing)
       
 8. **Project
-    - - [Project](https://colab.research.google.com/drive/1QvovlMC1sOoZ_sGRXs4pReq4BUpgs565?usp=sharing)
+    - [Project](https://colab.research.google.com/drive/1QvovlMC1sOoZ_sGRXs4pReq4BUpgs565?usp=sharing)
