@@ -47,13 +47,16 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 3. **Week 2: Logistic Regeression**
    - [Logistic Regeression](https://colab.research.google.com/drive/1fcPffZ583U2hdyu85LbOCydGCFaEiREr?usp=sharing)
 5. **Week 3: Decision Tree**
-6. **Week 4: Bagging and Random Forest**
-7. **Week 5: Boosting**
-8. **Week 6: Case Study 1**
-9. **Week 7: Unsupervise Learning Part I**
-10. **Week 8: Unsupervise Learning Part II**
-11. **Week 8: Time Series Forecasting**
-12. **Week 8: Case Study 2**
-13. **Week 8: Natural Language Processing I**
-14. **Week 8: Natural Language Processing II**
-15. **Week 8: Natural Language Processing III**
+   - [Decision Tree](https://colab.research.google.com/drive/1kHFLFaHSiIm6fGzMYgAP4dvyvVuM6qt_?usp=sharing)
+7. **Week 4: Bagging and Random Forest**
+   - [Bagging and Random Forest](https://colab.research.google.com/drive/1MySkjy3HAxQxzjXNd_wNCWxsHCAW0N_5?usp=sharing)
+9. **Week 5: Boosting**
+   - [Boosting](https://colab.research.google.com/drive/1O0PLiYE9CAFrxEApbtB-lyTvpr-JpzBF?usp=sharing)
+11. **Week 6: Case Study 1**
+12. **Week 7: Unsupervise Learning Part I**
+13. **Week 8: Unsupervise Learning Part II**
+14. **Week 8: Time Series Forecasting**
+15. **Week 8: Case Study 2**
+16. **Week 8: Natural Language Processing I**
+17. **Week 8: Natural Language Processing II**
+18. **Week 8: Natural Language Processing III**
