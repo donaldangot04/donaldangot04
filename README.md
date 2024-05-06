@@ -43,7 +43,15 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 ## Data Analytics II
 
 1. **Week 1: Linear Regression**
-2. **Week 2: Logistic Regeression**
-3. **Week 3: Decision Tree**
-4. **Week 4: Hyperparameter Tuning, Decision Tree, Random Forest, Bagging Classifier**
-5. **Week 5:**
+3. **Week 2: Logistic Regeression**
+4. **Week 3: Decision Tree**
+5. **Week 4: Bagging and Random Forest**
+6. **Week 5: Boosting**
+7. **Week 6: Case Study 1**
+8. **Week 7: Unsupervise Learning Part I**
+9. **Week 8: Unsupervise Learning Part II**
+10. **Week 8: Time Series Forecasting**
+11. **Week 8: Case Study 2**
+12. **Week 8: Natural Language Processing I**
+13. **Week 8: Natural Language Processing II**
+14. **Week 8: Natural Language Processing III**
