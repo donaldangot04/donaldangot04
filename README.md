@@ -45,14 +45,15 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 1. **Week 1: Linear Regression**
    - [Linear Regression](https://colab.research.google.com/drive/11j5QysVupS2a49rEABR-oO7Y_qGZSkIy?usp=sharing)
 3. **Week 2: Logistic Regeression**
-4. **Week 3: Decision Tree**
-5. **Week 4: Bagging and Random Forest**
-6. **Week 5: Boosting**
-7. **Week 6: Case Study 1**
-8. **Week 7: Unsupervise Learning Part I**
-9. **Week 8: Unsupervise Learning Part II**
-10. **Week 8: Time Series Forecasting**
-11. **Week 8: Case Study 2**
-12. **Week 8: Natural Language Processing I**
-13. **Week 8: Natural Language Processing II**
-14. **Week 8: Natural Language Processing III**
+   - [Logistic Regeression]([https://colab.research.google.com/drive/11j5QysVupS2a49rEABR-oO7Y_qGZSkIy?usp=sharing](https://colab.research.google.com/drive/1fcPffZ583U2hdyu85LbOCydGCFaEiREr?usp=sharing))
+5. **Week 3: Decision Tree**
+6. **Week 4: Bagging and Random Forest**
+7. **Week 5: Boosting**
+8. **Week 6: Case Study 1**
+9. **Week 7: Unsupervise Learning Part I**
+10. **Week 8: Unsupervise Learning Part II**
+11. **Week 8: Time Series Forecasting**
+12. **Week 8: Case Study 2**
+13. **Week 8: Natural Language Processing I**
+14. **Week 8: Natural Language Processing II**
+15. **Week 8: Natural Language Processing III**
