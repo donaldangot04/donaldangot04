@@ -43,6 +43,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 ## Data Analytics II
 
 1. **Week 1: Linear Regression**
+   - [Linear Regression](https://colab.research.google.com/drive/11j5QysVupS2a49rEABR-oO7Y_qGZSkIy?usp=sharing)
 3. **Week 2: Logistic Regeression**
 4. **Week 3: Decision Tree**
 5. **Week 4: Bagging and Random Forest**
