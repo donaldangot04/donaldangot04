@@ -42,26 +42,34 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 
 ## Data Analytics II
 
-1. **Week 1: Linear Regression**
+1. **Module 1: Linear Regression**
    - [Linear Regression](https://colab.research.google.com/drive/11j5QysVupS2a49rEABR-oO7Y_qGZSkIy?usp=sharing)
      
-3. **Week 2: Logistic Regeression**
+3. **Module 2: Logistic Regeression**
    - [Logistic Regeression](https://colab.research.google.com/drive/1fcPffZ583U2hdyu85LbOCydGCFaEiREr?usp=sharing)
      
-5. **Week 3: Decision Tree**
+5. **Module 3: Decision Tree**
    - [Decision Tree](https://colab.research.google.com/drive/1kHFLFaHSiIm6fGzMYgAP4dvyvVuM6qt_?usp=sharing)
      
-7. **Week 4: Bagging and Random Forest**
+7. **Module 4: Bagging and Random Forest**
    - [Bagging and Random Forest](https://colab.research.google.com/drive/1MySkjy3HAxQxzjXNd_wNCWxsHCAW0N_5?usp=sharing)
      
-9. **Week 5: Boosting**
+9. **Module 5: Boosting**
    - [Boosting](https://colab.research.google.com/drive/1O0PLiYE9CAFrxEApbtB-lyTvpr-JpzBF?usp=sharing)
      
-11. **Week 6: Case Study 1**
-12. **Week 7: Unsupervise Learning Part I**
-13. **Week 8: Unsupervise Learning Part II**
-14. **Week 8: Time Series Forecasting**
-15. **Week 8: Case Study 2**
-16. **Week 8: Natural Language Processing I**
-17. **Week 8: Natural Language Processing II**
-18. **Week 8: Natural Language Processing III**
+11. **Module 6: Case Study 1**
+   - [Case Study 1](https://colab.research.google.com/drive/1Auy54MNrO4inF72uxa2U5l57oHhY5izc?authuser=2)
+13. **Module 7: Unsupervise Learning Part I**
+   - [Unsupervise Learning Part I](https://colab.research.google.com/drive/1InCavaAVkXyoPse2f3ac7AK2w4tZe-OM?authuser=2)
+14. **Module 8: Unsupervise Learning Part II**
+   - [Unsupervise Learning Part II](https://colab.research.google.com/drive/1QGKXCA67SNKGpfiWFxsTvY5CqHkxRK3L?authuser=2)
+15. **Module 9: Time Series Forecasting**
+   - [Time Series Forecasting](https://colab.research.google.com/drive/12UsePK2CH4fkBFK_sFrBdlje1E7fVa6U?authuser=2)
+16. **Module 10: Case Study 2**
+   - [Case Study 2](https://colab.research.google.com/drive/1dwCXlCcn8mnsu0uwQvsRzWJyg5sZnDvu?authuser=2)
+17. **Module 11: Natural Language Processing I**
+   - [Natural Language Processing I](https://colab.research.google.com/drive/1OhPyw7rtgWwXsXZtfsBIaa5wHF08VUyl?authuser=2)
+18. **Module 12: Natural Language Processing II**
+   - [Natural Language Processing II](https://colab.research.google.com/drive/1M_OxHO5RwqTOnCFJTCZFDRTPDsyfRlsu?authuser=2)
+19. **Module 13: Natural Language Processing III**
+   - [Natural Language Processing III](https://colab.research.google.com/drive/1JZdOCPjBFhyU8cvo9gn3_DixGoMDhOfW?authuser=2)
