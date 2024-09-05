@@ -41,20 +41,20 @@ This is the portfolio of all class assignments I have completed in Data Analytic
     - [Project](https://colab.research.google.com/drive/1QvovlMC1sOoZ_sGRXs4pReq4BUpgs565?usp=sharing)
 
 ## Data Analytics II
-
-1. **Module 1: Linear Regression**
+   
+   **Module 1: Linear Regression**
    - [Linear Regression](https://colab.research.google.com/drive/11j5QysVupS2a49rEABR-oO7Y_qGZSkIy?usp=sharing)
      
-3. **Module 2: Logistic Regeression**
+   **Module 2: Logistic Regeression**
    - [Logistic Regeression](https://colab.research.google.com/drive/1fcPffZ583U2hdyu85LbOCydGCFaEiREr?usp=sharing)
      
-5. **Module 3: Decision Tree**
+   **Module 3: Decision Tree**
    - [Decision Tree](https://colab.research.google.com/drive/1kHFLFaHSiIm6fGzMYgAP4dvyvVuM6qt_?usp=sharing)
      
-7. **Module 4: Bagging and Random Forest**
+   **Module 4: Bagging and Random Forest**
    - [Bagging and Random Forest](https://colab.research.google.com/drive/1MySkjy3HAxQxzjXNd_wNCWxsHCAW0N_5?usp=sharing)
      
-9. **Module 5: Boosting**
+   **Module 5: Boosting**
    - [Boosting](https://colab.research.google.com/drive/1O0PLiYE9CAFrxEApbtB-lyTvpr-JpzBF?usp=sharing)
      
    **Module 6: Case Study 1**
