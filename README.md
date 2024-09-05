@@ -20,7 +20,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
     - [A1: Markdown CV](https://colab.research.google.com/drive/1I0YiMILL5_TXXWv-iPWU6-tNe1T_yH0I?usp=drive_link)
    
   **Module 2: Fundamentals of Programming for Data Analysis**
-    - [A2 Programming Fundamentals](https://colab.research.google.com/drive/1DJxhhSENCdQh7m23zSPVMONFHuvwaapQ?usp=drive_link)
+    -[A2 Programming Fundamentals](https://colab.research.google.com/drive/1DJxhhSENCdQh7m23zSPVMONFHuvwaapQ?usp=drive_link)
    
   **Module 3: Working with Data**
     - [A3 Work with data Yelp Reviews](https://colab.research.google.com/drive/1jm8Gv1PQhzLTm-kxKaxNwBGC9c5AzDcP?usp=drive_link)
