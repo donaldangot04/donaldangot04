@@ -17,7 +17,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 ## Data Analytics I
 
   **Module 1: Using Colab**
-    - [A1: Markdown CV](https://colab.research.google.com/drive/1I0YiMILL5_TXXWv-iPWU6-tNe1T_yH0I?usp=drive_link)
+     - [A1: Markdown CV](https://colab.research.google.com/drive/1I0YiMILL5_TXXWv-iPWU6-tNe1T_yH0I?usp=drive_link)
    
   **Module 2: Fundamentals of Programming for Data Analysis**
     -[A2 Programming Fundamentals](https://colab.research.google.com/drive/1DJxhhSENCdQh7m23zSPVMONFHuvwaapQ?usp=drive_link)
