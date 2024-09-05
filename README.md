@@ -59,17 +59,25 @@ This is the portfolio of all class assignments I have completed in Data Analytic
      
 11. **Module 6: Case Study 1**
    - [Case Study 1](https://colab.research.google.com/drive/1Auy54MNrO4inF72uxa2U5l57oHhY5izc?authuser=2)
+     
 13. **Module 7: Unsupervise Learning Part I**
    - [Unsupervise Learning Part I](https://colab.research.google.com/drive/1InCavaAVkXyoPse2f3ac7AK2w4tZe-OM?authuser=2)
+     
 14. **Module 8: Unsupervise Learning Part II**
    - [Unsupervise Learning Part II](https://colab.research.google.com/drive/1QGKXCA67SNKGpfiWFxsTvY5CqHkxRK3L?authuser=2)
+     
 15. **Module 9: Time Series Forecasting**
    - [Time Series Forecasting](https://colab.research.google.com/drive/12UsePK2CH4fkBFK_sFrBdlje1E7fVa6U?authuser=2)
+     
 16. **Module 10: Case Study 2**
    - [Case Study 2](https://colab.research.google.com/drive/1dwCXlCcn8mnsu0uwQvsRzWJyg5sZnDvu?authuser=2)
+     
 17. **Module 11: Natural Language Processing I**
    - [Natural Language Processing I](https://colab.research.google.com/drive/1OhPyw7rtgWwXsXZtfsBIaa5wHF08VUyl?authuser=2)
+     
 18. **Module 12: Natural Language Processing II**
    - [Natural Language Processing II](https://colab.research.google.com/drive/1M_OxHO5RwqTOnCFJTCZFDRTPDsyfRlsu?authuser=2)
+     
 19. **Module 13: Natural Language Processing III**
    - [Natural Language Processing III](https://colab.research.google.com/drive/1JZdOCPjBFhyU8cvo9gn3_DixGoMDhOfW?authuser=2)
+     
